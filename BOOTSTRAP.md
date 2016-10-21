@@ -1,4 +1,6 @@
-7x Groupes de 4 personnes, groupes imposés
+# Bootstrap
+
+> 7x Groupes de 4 personnes, groupes imposés
 
 **Caractéristiques : **
 
@@ -16,7 +18,7 @@ Objectif 2 : travailler animations + ajout de modules Bootstrap si temps
 
 **Groupes + capitaines (\*)**
 
-Gr 1
+> Gr 1
 
 Abdulkader (\*)
 
@@ -26,7 +28,7 @@ Olivier
 
 Diouma
 
-Gr 2
+> Gr 2
 
 Ahmed
 
@@ -36,7 +38,7 @@ Pauline (\*)
 
 Imanou
 
-Gr 3
+> Gr 3
 
 Amina
 
@@ -46,7 +48,7 @@ Célia T (\*)
 
 yohan
 
-Gr 4
+> Gr 4
 
 Chadi
 
@@ -56,7 +58,7 @@ jean
 
 Nine (\*)
 
-Gr 5
+> Gr 5
 
 Mohamad (\*)
 
@@ -66,7 +68,7 @@ Jérémie
 
 Cécile
 
-Gr 6
+> Gr 6
 
 Amare
 
@@ -76,7 +78,7 @@ Mehdi
 
 Yassin (\*)
 
-Gr 7
+> Gr 7
 
 Antoine (\*)
 
