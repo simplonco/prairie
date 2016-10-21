@@ -23,7 +23,7 @@ _Coming soon!_
 
 > [Environnement UNIX](UNIX.md)
 
-> Customization du local with UNIX Spreadsheets
+> Customize the local 1 / 3 -> UNIX Spreadsheets
 
 > Challenge : Look like a Hacker 
 
@@ -78,18 +78,21 @@ _Coming soon!_
 
 _Coming soon!_
 
-> [HTML / CSS Challenges](https://github.com/simplonco/html-css-challenges) 1 / 2
+> [HTML / CSS Challenges](https://github.com/simplonco/html-css-challenges) 2 / 2
 
-> Customize the local a bit more with HTML / CSS Spreadsheets
+> Customize the local 2 / 3 ->  HTML / CSS Spreadsheets
 
 ### Jeudi
 
 _Coming soon!_
 
+> Flexbox / flukeout.io
+
 ### Vendredi
 
 _Coming soon!_
 
+> Challenge : Try to reproduce Facebook welcome page
 
 ## Semaine 3 : Bootstrap & JQuery
 
@@ -126,7 +129,7 @@ _Coming soon!_
 > [Challenge Interpromo](BOOTSTRAP.md) 2 / 2 -> Restitution
 
 
-## Semaine 4 : Git
+## Semaine 4 : Git / SCRUM
 
 ### Lundi
 
@@ -138,14 +141,24 @@ _Coming soon!_
 
 _Coming soon!_
 
+> Lego for SCRUM
+
+> Customize the local 3 / 3 -> Git Spreadsheets + Kanban
+
 ### Mercredi
 
 _Coming soon!_
+
+> Final Projet 1 / 3
 
 ### Jeudi
 
 _Coming soon!_
 
+> Final Projet 2 / 3
+
 ### Vendredi
 
 _Coming soon!_
+
+> Final Projet 3 / 3
