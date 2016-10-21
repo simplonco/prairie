@@ -1,6 +1,6 @@
-# Prairie Simplon.co
+# Prairie
 
-![Windows XP](http://www.lense.fr/wp-content/uploads/2011/12/windows-xp-original-photo-03.jpg)
+![Windows XP](http://img.20mn.fr/r5SvxqSZSrWS4W587_eJxw/2048x1536-fit_fond-ecran-defaut-windows-xp.jpg)
 
 
 ## Semaine 1
