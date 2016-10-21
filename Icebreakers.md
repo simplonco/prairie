@@ -1,13 +1,10 @@
-Icebreakers\
-(funny games)
+# Icebreakers _(funny games)_
 
-=&gt; Bien introduire
+- Bien introduire
+- Consignes claires
+- Leur faire tirer les conclu / enseignements par eux-mêmes
 
-=&gt; Consignes claires
-
-=&gt; Leur faire tirer les conclu / enseignements par eux-mêmes
-
-**Le jeu du nom**
+## Le jeu du nom
 
 Objectif : Cette activité permet aux participants de retenir leurs
 prénoms et la caractéristique qui le décrit le mieux.
@@ -25,13 +22,12 @@ combinaisons entendues et y ajoutera la sienne.
 
 **Objectifs :**
 
-=&gt; Se connaître
-
-=&gt; Travailler les traductions FR / EN
+- Se connaître
+- Travailler les traductions FR / EN
 
 NB : Commencer par moi pâlote Perrine (peaky)
 
-**Le réseau social**
+## Le réseau social
 
 Le réseau social en papier (issu du livre Gamestorming)
 
@@ -52,14 +48,13 @@ Nombre de participants : de 10 à 30
 
 Matériel : un brownpaper, des fiches, de la colle et des feutres
 
-**Objectifs : **
+**Objectifs :**
 
-=&gt; Plus de points communs que prévu
-
-=&gt; utiliser les outils mis à dispo comme slack, simplonline etc,
+- Plus de points communs que prévu
+- Utiliser les outils mis à dispo comme slack, simplonline etc,
 sinon communication dans le groupe c’est le bordel comme sur le tableau
 
-**Classez-vous**
+## Classez-vous
 
 taille, couleurs chaussettes, teeshirt, âge, nb de langues maîtrisées
 (dont langages), de la moins motivée à la plus motivé, esprit d’équipe,
@@ -73,7 +68,7 @@ diff sont les richesses
 
 learning by teaching
 
-**Liste de 30 mots à l’oral**
+## Liste de 30 mots à l’oral
 
 restitution en individuelle du max de mots
 
@@ -83,17 +78,15 @@ puis en groupe de 4
 
 obj : tout seul on va plus vite, ensemble on va plus loin
 
-**Contraires**
+## Contraires
 
 liste de tout ce que je dois faire pour rater complètement ma formation,
 les trucs les plus pourris. A écrire sur un tableau
 
--&gt; Et maintenant on fait quoi pour être sûr de réussir ? on passe en
-contraire
+- Et maintenant on fait quoi pour être sûr de réussir ? on passe en contraire
+- Définissent alors leur pédago !
 
--&gt; Définissent alors leur pédago !
-
-**Cercles**
+## Cercles
 
 Petit cercle de 4-5 psn au centre + grand cercle autour
 
@@ -101,7 +94,7 @@ Une personne demande à une autre ce qui l’effraie dans la formation.
 
 c’est le groupe qui fait le feedback sans la regarder
 
-**Projets jours**
+## Projets jours
 
 chacun a un capital de jetons au début de la journée projet.
 
@@ -110,16 +103,14 @@ A chaque interaction, il mettent un jeton au milieu dans un pot.
 à la fin de la journée, chacun doit avoir le même nb de jetons (sans
 tricher).
 
--&gt; Donc ceux qui ne parlent pas assez se forcent / ceux qui parlent
-trop se retreignent.
-
--&gt; rééquilibre à favoriser
+- Donc ceux qui ne parlent pas assez se forcent / ceux qui parlent trop se retreignent.
+- rééquilibre à favoriser
 
 même exercice avec un Trello partagé. Ils créent chacun des fiches avec
 des idées sur une thématique donnée. Il y a une colonne idées / en débat
 / conservées / archivées. avec fiches débattues
 
-**Apprendre par / avec le groupe**
+## Apprendre par / avec le groupe
 
 fiche exp positive et négative dans le pro
 
@@ -129,7 +120,7 @@ groupe
 urne comme terreau pour grandir ensemble. important que chacun témoigne
 de ses expériences pour faire progresser le groupe
 
-**Carte d’empathie**
+## Carte d’empathie
 
 les faire galérer sur un projet. Puis dans la restit :
 
@@ -146,7 +137,7 @@ interactions + conclusions,
 ce qu’il a fait + conclusions, comment ne plus ressentir ça, plan
 d’action à mettre en place.
 
-**4 debouts**
+## 4 debouts
 
 Taille du groupe : 10 et plus
 
@@ -191,6 +182,6 @@ savaient
 
 lorsqu’ils devaient se lever ?
 
-Pitch your job
+## Pitch your job
 
 Intervenants qu’on connait bien, avec objectif pédago bien défini
