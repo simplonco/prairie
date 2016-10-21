@@ -1,8 +1,6 @@
 Environnement UNIX/LINUX
 ------------------------
 
-02/03/2016
-
 Tout bon développeur se doit d'être capable d'installer et configurer
 ses outils, et de maîtriser la ligne de commande. Les activités qui te
 sont proposées ici ont toutes pour but d'atteindre ces objectifs. Nous
@@ -40,35 +38,24 @@ suivre. Enjoy ! ;)
 
 #### **De la lecture...**
 
--   [Unix, une
-    > introduction](http://www.audeladelherbeseche.fr/unix/index.html)
-    > (série de petits articles)
-
+-   [Unix, une introduction](http://www.audeladelherbeseche.fr/unix/index.html) (série de petits articles)
 -   [Linux](https://fr.wikipedia.org/wiki/Linux) (article)
 
 #### **Des videós...**
 
--   [Linux ou la communauté enfin
-    > libre](https://www.youtube.com/watch?v=0JEgCYBo1H0) (documentaire)
+-   [Linux ou la communauté enfin ibre](https://www.youtube.com/watch?v=0JEgCYBo1H0) (documentaire)
 
 #### **Des références...**
 
--   [Linux - Commandes
-    > fondamentales](http://juliend.github.io/linux-cheatsheet/)
-
+-   [Linux - Commandes fondamentales](http://juliend.github.io/linux-cheatsheet/)
 -   [Vim Cheat Sheet](http://vim.rtorr.com/)
 
 #### **Des Twittos à suivre...**
 
 -   [LinuxFRorg](https://twitter.com/linuxfrorg)
-
 -   [Bastien Guerry](https://twitter.com/bzg2)
-
--   [Framasoft](http://twitter.com/framasoft) et [Alexis
-    > Kauffmann](https://twitter.com/framaka)
-
+-   [Framasoft](http://twitter.com/framasoft) et [Alexis Kauffmann](https://twitter.com/framaka)
 -   [TooLinux](https://twitter.com/toolinux)
-
 -   [April](https://twitter.com/aprilorg)
 
 
