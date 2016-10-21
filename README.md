@@ -101,29 +101,29 @@ _Coming soon!_
 
 > First HTML page with Bootstrap
 
-> https://github.com/simplonco/bootstrap-challenges 1 / 2
+> [Bootstrap Challenges](https://github.com/simplonco/bootstrap-challenges) 1 / 2
 
 ### Mardi
 
 _Coming soon!_
 
-> Bootstrap Challenges 2 / 2
+> [Bootstrap Challenges](https://github.com/simplonco/bootstrap-challenges) 2 / 2
 
 ### Mercredi
 
 _Coming soon!_
 
-> Bootstrap DEBUG
+> [Bootstrap DEBUG](https://github.com/simplonco/Debug-me-I-m-famous/)
 
 ### Jeudi
 
 _Coming soon!_
 
-> [Challenge Interpromo](BOOTSTRAP.md)
+> [Challenge Interpromo](BOOTSTRAP.md) 1 / 2
 
 ### Vendredi
 
-_Coming soon!_
+> [Challenge Interpromo](BOOTSTRAP.md) 2 / 2 -> Restitution
 
 
 ## Semaine 4 : Git
