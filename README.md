@@ -13,26 +13,34 @@ Prélude : https://docs.google.com/presentation/d/1z6GZSR9HP7Du6V2zGSruDbvda-r_A
 _Coming soon!_
 
 > Présentation de la prairie
+
 > ICEBREAKERS
+
 > Charte / règles de la formation
 
 ### Mardi
 
 _Coming soon!_
 
-> [Environnement UNIX](UNIX.md)
+> [Environnement UNIX](UNIX.md) 1 / 2
 
 ### Mercredi
 
 _Coming soon!_
 
+> Environnement UNIX 2 / 2
+
 ### Jeudi
 
 _Coming soon!_
 
+> Scratch 1 / 2
+
 ### Vendredi
 
 _Coming soon!_
+
+> Scratch 1 / 2
 
 
 ## Semaine 2 : HTML / CSS
@@ -41,9 +49,15 @@ _Coming soon!_
 
 _Coming soon!_
 
+> First HTML page on UNIX
+
+> How to Organize your working space
+
 ### Mardi
 
 _Coming soon!_
+
+> https://github.com/simplonco/html-css-challenges
 
 ### Mercredi
 
@@ -64,19 +78,27 @@ _Coming soon!_
 
 _Coming soon!_
 
-> [Environnement UNIX](BOOTSTRAP.md)
+> First HTML page with Bootstrap
+
+> https://github.com/simplonco/bootstrap-challenges 1 / 2
 
 ### Mardi
 
 _Coming soon!_
 
+> Bootstrap Challenges 2 / 2
+
 ### Mercredi
 
 _Coming soon!_
 
+> Bootstrap DEBUG
+
 ### Jeudi
 
 _Coming soon!_
+
+> [Challenge Interpromo](BOOTSTRAP.md)
 
 ### Vendredi
 
@@ -106,3 +128,5 @@ _Coming soon!_
 ### Vendredi
 
 _Coming soon!_
+
+https://github.com/simplonco/animation-challenges
