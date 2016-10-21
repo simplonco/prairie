@@ -54,6 +54,8 @@ _Coming soon!_
 
 ## Semaine 2 : HTML / CSS
 
+TODO: https://github.com/Simplon-lyon/dev-web/wiki/semaine-1
+
 ### Lundi
 
 _Coming soon!_
@@ -89,7 +91,9 @@ _Coming soon!_
 _Coming soon!_
 
 
-## Semaine 3 : Bootstrap
+## Semaine 3 : Bootstrap & JQuery
+
+TODO: https://github.com/simplonco/animation-challenges
 
 ### Lundi
 
