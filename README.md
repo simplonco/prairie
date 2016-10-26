@@ -162,3 +162,47 @@ _Coming soon!_
 _Coming soon!_
 
 > Final Projet 3 / 3
+
+
+# TODO
+
+https://drive.google.com/drive/u/1/folders/0B32VWbSy7aO_QjJKV3BuSUxsRTA
+
+https://docs.google.com/spreadsheets/d/1J_RpPB_39iKTdcRQ0P0JgqMwg3Wu5d6pRIQIqOTxv94/edit#gid=0
+
+
+-	Prez de la Promo
+-	Des equipes simplon /// #rencontre
+Workshop : qu’est-ce qu’il faut pour être un bon codeur ?
+
+-	Moins de Scratch
+-	Flexboxfroby
+-	http://flukeout.github.io/
+-	http://flexboxfroggy.com/
+-	Code In Game ? / Code Combat / HackerRank ?
+-	Enzo / rodolphe
+
+-	Faire des GIT plus tôt
+
+-	Algo
+
+
+-	Format demi-journée
+-	Restit : 1 min 
+
+-	Welcome Guide / Prélude
+-	Ressources Setup
+-	Ressources Workflow
+-	Ressources DEBUG
+-	Ressources Guide de Survie
+-	Ressources Bonne pratiques
+
+-	Refaire un site
+
+o	Level !: wireframe
+o	Images
+o	Animations
+
+-	Restit écrire  le guide comment je vais devenir un pro ?
+•	Final project créa
+
