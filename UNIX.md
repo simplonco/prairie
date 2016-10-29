@@ -57,5 +57,3 @@ suivre. Enjoy ! ;)
 -   [Framasoft](http://twitter.com/framasoft) et [Alexis Kauffmann](https://twitter.com/framaka)
 -   [TooLinux](https://twitter.com/toolinux)
 -   [April](https://twitter.com/aprilorg)
-
-

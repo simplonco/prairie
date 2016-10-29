@@ -25,7 +25,7 @@ _Coming soon!_
 
 > Customize the local 1 / 3 -> UNIX Spreadsheets
 
-> Challenge : Look like a Hacker 
+> Challenge : Look like a Hacker
 
 ### Mercredi
 
@@ -163,6 +163,20 @@ _Coming soon!_
 
 > Final Projet 3 / 3
 
+# Ressources pour CAPPRIO – UNIVERSCIENCE PROMO1
+
+http://flexboxfroggy.com/ exercice flexbox
+http://flatuicolors.com couleurs flat
+http://flatuicolorpicker.com couleurs flat
+Module firefox : web developer / ColorZilla
+http://devicon.com librairie icon dev
+https://resourcecards.com Ressource libre de droit
+http://caniuse.com Vérifie si CSS/HTML passe sur navigateurs
+http://www.cssauthor.com/css-flexbox/ ressource flex box
+
+http://learnlayout.com/flexbox.html/ ressource flex box
+http://flukeout.github.io/ CSS Selector
+http://guidecss.fr CSS Cours
 
 # TODO
 
@@ -170,39 +184,37 @@ https://drive.google.com/drive/u/1/folders/0B32VWbSy7aO_QjJKV3BuSUxsRTA
 
 https://docs.google.com/spreadsheets/d/1J_RpPB_39iKTdcRQ0P0JgqMwg3Wu5d6pRIQIqOTxv94/edit#gid=0
 
+- Prez de la Promo <-> des équipes Simplon.co #rencontre
+- Workshop : qu’est-ce qu’il faut pour être un bon codeur ?
 
--	Prez de la Promo
--	Des equipes simplon /// #rencontre
-Workshop : qu’est-ce qu’il faut pour être un bon codeur ?
+## Contenu
 
--	Moins de Scratch
--	Flexboxfroby
--	http://flukeout.github.io/
--	http://flexboxfroggy.com/
--	Code In Game ? / Code Combat / HackerRank ?
--	Enzo / rodolphe
+- Seulement 2j de Scratch
+- Code In Game ? / Code Combat / HackerRank ?
+- Faire du GIT plus tôt ?
+- Algo ?
 
--	Faire des GIT plus tôt
+## Format
 
--	Algo
+- Prez du Format des demi-journée
+- Restit : 1 min de la veille puis challenges en autonomie
 
+## Ressources
 
--	Format demi-journée
--	Restit : 1 min 
+- Welcome Guide / Prélude
+- UNIX Setup
+- GIT / SCRUM Workflow
+- How to DEBUG
+- Guide de Survie
+- Bonne pratiques
 
--	Welcome Guide / Prélude
--	Ressources Setup
--	Ressources Workflow
--	Ressources DEBUG
--	Ressources Guide de Survie
--	Ressources Bonne pratiques
+## Activité : Reprduire un site
 
--	Refaire un site
+- Level 1 : wireframe
+- Level 2 : Images
+- Level 3 : Animations
 
-o	Level !: wireframe
-o	Images
-o	Animations
+## Final
 
--	Restit écrire  le guide comment je vais devenir un pro ?
-•	Final project créa
-
+- Restit écrire le guide : "Comment je vais devenir un pro ?""
+•	Final project créatif
