@@ -4,6 +4,7 @@
 
 Prelude: https://docs.google.com/presentation/d/1z6GZSR9HP7Du6V2zGSruDbvda-r_Am7GGQg-J7J5Ozg/edit#slide=id.p
 
+Le genre de vidéo très très utile aux simploniens/formateurs https://www.youtube.com/watch?v=sBzRwzY7G-k
 
 ## Semaine 1 : Linux & Scratch
 
