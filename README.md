@@ -165,18 +165,17 @@ _Coming soon!_
 
 # Ressources pour CAPPRIO – UNIVERSCIENCE PROMO1
 
-http://flexboxfroggy.com/ exercice flexbox
-http://flatuicolors.com couleurs flat
-http://flatuicolorpicker.com couleurs flat
-Module firefox : web developer / ColorZilla
-http://devicon.com librairie icon dev
-https://resourcecards.com Ressource libre de droit
-http://caniuse.com Vérifie si CSS/HTML passe sur navigateurs
-http://www.cssauthor.com/css-flexbox/ ressource flex box
-
-http://learnlayout.com/flexbox.html/ ressource flex box
-http://flukeout.github.io/ CSS Selector
-http://guidecss.fr CSS Cours
+* http://flexboxfroggy.com/ exercice flexbox
+* http://flatuicolors.com couleurs flat
+* http://flatuicolorpicker.com couleurs flat
+* Module firefox : web developer / ColorZilla
+* http://devicon.com librairie icon dev
+* https://resourcecards.com Ressource libre de droit
+* http://caniuse.com Vérifie si CSS/HTML passe sur navigateurs
+* http://www.cssauthor.com/css-flexbox/ ressource flex box
+* http://learnlayout.com/flexbox.html/ ressource flex box
+* http://flukeout.github.io/ CSS Selector
+* http://guidecss.fr CSS Cours
 
 # TODO
 
