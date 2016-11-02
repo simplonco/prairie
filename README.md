@@ -30,17 +30,15 @@ _Coming soon!_
 
 ### Mercredi
 
-_Coming soon!_
 
-> [Scratch](https://scratch.mit.edu/) 1 / 2
+> [Scratch](SCRATCH1.md) 1 / 2
 
 > Challenge : Le Labyrinthe
 
 ### Jeudi
 
-_Coming soon!_
 
-> [Scratch](https://scratch.mit.edu/) 2 / 3
+> [Scratch](SCRATCH2.md) 2 / 3
 
 > Challenge : Le Space Shooter
 
@@ -208,7 +206,7 @@ https://docs.google.com/spreadsheets/d/1J_RpPB_39iKTdcRQ0P0JgqMwg3Wu5d6pRIQIqOTx
 - Guide de Survie
 - Bonne pratiques
 
-## Activité : Reprduire un site
+## Activité : Reproduire un site
 
 - Level 1 : wireframe
 - Level 2 : Images
