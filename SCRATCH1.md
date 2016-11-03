@@ -1,4 +1,4 @@
-# Challenge SCRATCH 1/2 :
+# Challenge SCRATCH 1/3 :
 
 > _Le labyrinthe_
 
@@ -8,12 +8,12 @@ Le but de cet exercice est donc de créer un petit jeu afin de se familiariser a
 
 Votre mission, si vous l’acceptez, est de créer un labyrinthe où :
 
-- ** Le joueur se déplace à l’aide des flèches du clavier **
-- ** Sans toucher les murs, sinon il meurt et recommence au début **
+- **Le joueur se déplace à l’aide des flèches du clavier**
+- **Sans toucher les murs, sinon il meurt et recommence au début**
 - …Vous ajouterez ensuite des niveaux, des ennemis et autres obstacles, un chronomètre ou un système de points !
 
 
-Pour commencer, aller sur le site de ![Scratch](https://scratch.mit.edu/) et cliquer sur « ** CREER ** ».
+Pour commencer, aller sur le site de [Scratch](https://scratch.mit.edu/) et cliquer sur « **CREER** ».
 
 
 PS: pensez à vous créer un profil personnel si vous souhaitez enregistrer votre projet :)
