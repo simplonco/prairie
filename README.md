@@ -6,6 +6,8 @@ Prelude: https://docs.google.com/presentation/d/1z6GZSR9HP7Du6V2zGSruDbvda-r_Am7
 
 Le genre de vidéo très très utile aux simploniens/formateurs https://www.youtube.com/watch?v=sBzRwzY7G-k
 
+https://www.learnacademy.org/weeks
+
 ## Semaine 1 : Linux & Scratch
 
 ### Lundi
