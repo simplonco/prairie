@@ -1,4 +1,6 @@
-# Prairie
+# La Prairie
+
+>_[Training](https://github.com/simplonco/training) / La Prairie_
 
 ![Windows XP](http://img.20mn.fr/r5SvxqSZSrWS4W587_eJxw/2048x1536-fit_fond-ecran-defaut-windows-xp.jpg)
 
