@@ -4,7 +4,7 @@
 
 ## Semaine 1 : Linux & Scratch
 
-* [Lundi](activities/day_01.md)
+* :unlock: [Lundi](activities/day_01.md)
 * :lock: _Mardi_
 * :lock: _Mercredi_
 * :lock: _Jeudi_
