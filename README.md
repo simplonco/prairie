@@ -4,14 +4,61 @@
 
 Prelude: https://docs.google.com/presentation/d/1z6GZSR9HP7Du6V2zGSruDbvda-r_Am7GGQg-J7J5Ozg/edit#slide=id.p
 
+Le genre de vidéo très très utile aux simploniens/formateurs https://www.youtube.com/watch?v=sBzRwzY7G-k
+
+https://www.learnacademy.org/weeks
 
 ## Semaine 1 : Linux & Scratch
+
 
 * [Lundi](activities/day_01.md)
 * :lock: Mardi
 * :lock: Mercredi
 * :lock: Jeudi
 * :lock: Vendredi
+
+### Lundi
+
+_Coming soon!_
+
+> Présentation de la prairie Simplon.co
+
+> [ICEBREAKERS](ICEBREAKERS.md)
+
+> Charte / règles de la formation
+
+### Mardi
+
+_Coming soon!_
+
+> [Environnement UNIX](UNIX.md)
+
+> Customize the local 1 / 3 -> UNIX Spreadsheets
+
+> Challenge : Look like a Hacker
+
+### Mercredi
+
+
+> [Scratch](SCRATCH1.md) 1 / 2
+
+> Challenge : Le Labyrinthe
+
+### Jeudi
+
+
+> [Scratch](SCRATCH2.md) 2 / 3
+
+> Challenge : Le Space Shooter
+
+### Vendredi
+
+_Coming soon!_
+
+> [Scratch](https://scratch.mit.edu/) 3 / 3
+
+> Challenge : Super Mario
+
 
 ## Semaine 2 : HTML / CSS
 
@@ -126,18 +173,17 @@ _Coming soon!_
 
 # Ressources pour CAPPRIO – UNIVERSCIENCE PROMO1
 
-http://flexboxfroggy.com/ exercice flexbox
-http://flatuicolors.com couleurs flat
-http://flatuicolorpicker.com couleurs flat
-Module firefox : web developer / ColorZilla
-http://devicon.com librairie icon dev
-https://resourcecards.com Ressource libre de droit
-http://caniuse.com Vérifie si CSS/HTML passe sur navigateurs
-http://www.cssauthor.com/css-flexbox/ ressource flex box
-
-http://learnlayout.com/flexbox.html/ ressource flex box
-http://flukeout.github.io/ CSS Selector
-http://guidecss.fr CSS Cours
+* http://flexboxfroggy.com/ exercice flexbox
+* http://flatuicolors.com couleurs flat
+* http://flatuicolorpicker.com couleurs flat
+* Module firefox : web developer / ColorZilla
+* http://devicon.com librairie icon dev
+* https://resourcecards.com Ressource libre de droit
+* http://caniuse.com Vérifie si CSS/HTML passe sur navigateurs
+* http://www.cssauthor.com/css-flexbox/ ressource flex box
+* http://learnlayout.com/flexbox.html/ ressource flex box
+* http://flukeout.github.io/ CSS Selector
+* http://guidecss.fr CSS Cours
 
 # TODO
 
@@ -169,7 +215,7 @@ https://docs.google.com/spreadsheets/d/1J_RpPB_39iKTdcRQ0P0JgqMwg3Wu5d6pRIQIqOTx
 - Guide de Survie
 - Bonne pratiques
 
-## Activité : Reprduire un site
+## Activité : Reproduire un site
 
 - Level 1 : wireframe
 - Level 2 : Images
