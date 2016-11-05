@@ -1,5 +1,3 @@
-_Coming soon!_
-
 > Présentation de la prairie Simplon.co
 
 > [ICEBREAKERS](ICEBREAKERS.md)
