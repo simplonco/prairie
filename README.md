@@ -7,50 +7,11 @@ Prelude: https://docs.google.com/presentation/d/1z6GZSR9HP7Du6V2zGSruDbvda-r_Am7
 
 ## Semaine 1 : Linux & Scratch
 
-### Lundi
-
-_Coming soon!_
-
-> Présentation de la prairie Simplon.co
-
-> [ICEBREAKERS](ICEBREAKERS.md)
-
-> Charte / règles de la formation
-
-### Mardi
-
-_Coming soon!_
-
-> [Environnement UNIX](UNIX.md)
-
-> Customize the local 1 / 3 -> UNIX Spreadsheets
-
-> Challenge : Look like a Hacker
-
-### Mercredi
-
-_Coming soon!_
-
-> [Scratch](https://scratch.mit.edu/) 1 / 2
-
-> Challenge : Le Labyrinthe
-
-### Jeudi
-
-_Coming soon!_
-
-> [Scratch](https://scratch.mit.edu/) 2 / 3
-
-> Challenge : Le Space Shooter
-
-### Vendredi
-
-_Coming soon!_
-
-> [Scratch](https://scratch.mit.edu/) 3 / 3
-
-> Challenge : Super Mario
-
+* [Lundi](activities/day_01.md)
+* :lock: Mardi
+* :lock: Mercredi
+* :lock: Jeudi
+* :lock: Vendredi
 
 ## Semaine 2 : HTML / CSS
 
