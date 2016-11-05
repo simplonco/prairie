@@ -1,3 +1,7 @@
-> [HTML / CSS Challenges](https://github.com/simplonco/html-css-challenges) 1 / 2
+# HTML / CSS Challenges
 
-> Discover Pair-Programming
+> Let's play with https://github.com/simplonco/html-css-challenges !
+
+# Discover Pair-Programming
+
+...

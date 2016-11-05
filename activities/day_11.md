@@ -1,3 +1,7 @@
-> First HTML page with Bootstrap
+## Bootstrap Challenges
 
-> [Bootstrap Challenges](https://github.com/simplonco/bootstrap-challenges) 1 / 2
+> Let's play with https://github.com/simplonco/bootstrap-challenges !
+
+## First HTML page with Bootstrap
+
+http://expo.getbootstrap.com/

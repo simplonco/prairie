@@ -1,1 +1,3 @@
-> [Bootstrap Challenges](https://github.com/simplonco/bootstrap-challenges) 2 / 2
+## jQuery Challenges
+
+> Let's play with https://github.com/simplonco/animation-challenges !
