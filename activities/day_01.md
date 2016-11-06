@@ -32,3 +32,37 @@ La Prairie is the first part of your training at Simplon.co:
 - How to DEBUG
 - Guide de Survie
 - Bonne pratiques
+
+
+Faire un point admin.
+❏	Norbert
+❏	Léa
+
+Installer son espace de travail.
+❏	Dual boot
+❏	terminal
+❏	editeur navigateur
+
+Créer ses comptes simploniens.
+❏	Gmail
+❏	Gitlab
+❏	Waffle
+❏	Slack
+❏	Simplonline
+
+Photos de la promo.
+
+Organisation salle.
+❏	chariot vert
+❏	scrum board
+
+Définition charte de bonne conduite.
+❏	Respect de l’autre
+❏	Assiduité
+❏	Espace propre
+❏	Hygiène corporelle
+
+Gérer son stress pendant la formation.
+❏	Bien dormir
+❏	Médidation
+❏	Savoir prendre du recul
