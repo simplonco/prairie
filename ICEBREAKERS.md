@@ -42,11 +42,11 @@ participants doivent avoir un minimum de lien les uns avec les autres.
 L’avantage avec cette technique c’est que le livrable produit est plutôt
 joli et peut constituer un souvenir à garder de la session.
 
-Durée : 30/40 min
+> Durée : 30/40 min
 
-Nombre de participants : de 10 à 30
+> Nombre de participants : de 10 à 30
 
-Matériel : un brownpaper, des fiches, de la colle et des feutres
+> Matériel : un brownpaper, des fiches, de la colle et des feutres
 
 **Objectifs :**
 
