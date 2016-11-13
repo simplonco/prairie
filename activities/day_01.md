@@ -12,12 +12,12 @@ La Prairie is the first part of your training at Simplon.co:
 
 ## IceBreakers
 
-...
+- Enigme d'Einstein
+- Cryptage
 
-## Charte de la formation
+## Workshop
 
-- Prez de la Promo <-> des équipes Simplon.co #rencontre
-- Workshop : qu’est-ce qu’il faut pour être un bon codeur ?
+Qu’est-ce qu’il faut pour être un bon codeur ?
 
 ## Format
 
@@ -34,9 +34,23 @@ La Prairie is the first part of your training at Simplon.co:
 - Bonne pratiques
 
 
-Faire un point admin.
-❏	Norbert
-❏	Léa
+
+
+Ice breakers - 45min
+-> Jeux de logique : Enigme d’Einstein + Cryptage (+algo JS)
+C’est quoi être un.e bon.ne dev ? - 45min
+Qualités ? Compétences ?
+Vers quoi vous voulez aller ? Quels sont vos attentes pour cette formation ?
+-> Post’its
+Présentation référentiel -> Post’its sur les technos = Planning - 45min
+Speech Erwan - 30min
+Présentation format et programme prairie - 15min
+-> Feuilles de présence
+-> Qui a besoin d’un ordinateur ?
+Icebreaker - Contraires
+1er jet Cadrage promo -> Co-construire la charte - post’its - 20min
+
+
 
 Installer son espace de travail.
 ❏	Dual boot
@@ -45,24 +59,5 @@ Installer son espace de travail.
 
 Créer ses comptes simploniens.
 ❏	Gmail
-❏	Gitlab
-❏	Waffle
 ❏	Slack
 ❏	Simplonline
-
-Photos de la promo.
-
-Organisation salle.
-❏	chariot vert
-❏	scrum board
-
-Définition charte de bonne conduite.
-❏	Respect de l’autre
-❏	Assiduité
-❏	Espace propre
-❏	Hygiène corporelle
-
-Gérer son stress pendant la formation.
-❏	Bien dormir
-❏	Médidation
-❏	Savoir prendre du recul

@@ -4,7 +4,7 @@
 ## Final
 
 - Restit écrire le guide : "Comment je vais devenir un pro ?""
-•	Final project créatif
+- Final project créatif
 
 
 ## Get the Big View

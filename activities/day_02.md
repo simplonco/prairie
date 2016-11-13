@@ -1,3 +1,15 @@
+Présentation pédago -> guide de survie à Simplon - 20min
+Découverte Slack + Google Classroom
+Rencontre team par pôles
+Workshop Unix
+Scratch
+Workshop sur C’est quoi un bon dev ? Augmenter le guide de survie de Sara
+découverte espace de travail
+Customiser l’espace
+
+
+
+
 ## Environnement UNIX
 
 Tout bon développeur se doit d'être capable d'installer et configurer

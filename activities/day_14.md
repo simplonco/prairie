@@ -1,5 +1,24 @@
 > [Challenge Interpromo](BOOTSTRAP.md) 1 / 2
 
+## Bootstrap Challenges
+
+> Let's play with https://github.com/simplonco/bootstrap-challenges !
+
+## First HTML page with Bootstrap
+
+http://expo.getbootstrap.com/
+
+
+## jQuery Challenges
+
+> Let's play with https://github.com/simplonco/animation-challenges !
+
+
+## Bootstrap DEBUG
+
+Try to make work: https://github.com/simplonco/Debug-me-I-m-famous/
+
+
 # Bootstrap
 
 > 7x Groupes de 4 personnes, groupes imposés
