@@ -11,7 +11,7 @@
 
 Try to play a bit with http://flexboxfroggy.com/ !
 
-And http://flexboxfroggy.com/ !
+And http://www.flexboxdefense.com/ !
 
 ## Use CSS Flexbox to reproduce a page
 
