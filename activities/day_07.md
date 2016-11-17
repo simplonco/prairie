@@ -7,19 +7,11 @@
     * explain commands: `sudo`, `su` and `whoami`
     * bonus: `chown`, `chmod`, `adduser`, `addgroup`, `passwd`
 
-
-
-## Veille
-
-https://twitter.com/maximaLzdnb/lists/influent-webdev-designers/members
-
-
-ICE-BREAKER Nasa GAME
-
-
 ## CSS Flexbox
 
 Try to play a bit with http://flexboxfroggy.com/ !
+
+And http://flexboxfroggy.com/ !
 
 ## Use CSS Flexbox to reproduce a page
 

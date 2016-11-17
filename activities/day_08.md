@@ -4,7 +4,7 @@ Rencontre team par pôles
 
 ## Lightning Talk
 
-- _Mercredi 16 Novembre_ **[ ? ]** Atom (list of cool plugins & how to split the screen)
+- _Mercredi 16 Novembre_ **[ Matthieu ]** Atom (list of cool plugins & how to split the screen)
 >   Pour télécharger les plugins atom c'est directement dans le logiciel dans les menus : Packages -> Setting View -> Install Packages/themes et vous n'avez plus qu'a taper le nom des plugins que vous voulez.
 >   Je vous conseil Emmet qui s'occupe de l'auto-completion des balises (gros gain de temps)
 >   Coté css il y aussi :
@@ -12,3 +12,11 @@ Rencontre team par pôles
 >   * Pigments permet d'afficher en surlignage les couleurs dans votre css.
 >   * Minimap permet d'afficher l'intégralité de votre code en taille très réduite. C'est une option qu'on retrouve par défaut sur Sublime Text et que je trouve assez pratique pour vite repérer des blocs de code.
 >   * Minimap Pigment. C'est la version minimap de Pigment comme son nom l'indique. Il permet de repérer telle ou telle couleur très rapidement dans votre css.
+
+## Veille
+
+https://twitter.com/maximaLzdnb/lists/influent-webdev-designers/members
+
+## Charte de la formation
+
+- Prez de la Promo <-> des équipes Simplon.co #rencontre
