@@ -1,10 +1,25 @@
-## Discover the Atom editor
+# La Prarie Simplon.co : Days 6 / 20
 
-https://atom.io/
+## Lightning Talk
 
-## How to Organize your working space
+- _Lundi 14 Novembre_ **[Martin]** Web Inspector (how to build a webpage directly in Chrome or Firefox)
+>   * https://developers.google.com/web/tools/chrome-devtools/
+>   * https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Open_the_Inspector
+>   * Le site pour mapper votre fichier que vous modifier dans l'inspecteur (chrome) : http://stackoverflow.com/questions/6843495/how-to-save-css-changes-of-styles-panel-of-chrome-developer-tools
 
-http://i3wm.org
+
+
+....
+
+
+flukeout
+
+
+flexbox defense
+flexbox froggy
+
+
+
 
 ## First HTML page on UNIX
 

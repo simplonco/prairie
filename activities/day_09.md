@@ -1,8 +1,29 @@
-## CSS Flexbox
+# La Prarie Simplon.co : Days 9 / 20
 
-Try to play a bit with http://flexboxfroggy.com/ !
+## Lightning Talk
 
-## Use CSS Flexbox to reproduce a page
+- _Jeudi 17 Novembre_ **[ ? ]** Pimp my Terminal
+    * How to customize the color?
+    * How to change the size of the text?
 
-* http://www.cssauthor.com/css-flexbox/
-* http://learnlayout.com/flexbox.html/
+
+
+
+
+## Challenge : Try to reproduce Facebook welcome page
+
+# Discover Pair programming
+
+
+
+Change terminal size
+
+
+
+# HTML / CSS Challenges
+
+> Let's play with https://github.com/simplonco/html-css-challenges !
+
+# Discover Pair-Programming
+
+...

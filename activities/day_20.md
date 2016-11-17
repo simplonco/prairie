@@ -1,3 +1,5 @@
+# La Prarie Simplon.co : Days 20 / 20
+
 > Final Projet 3 / 3
 
 
@@ -10,3 +12,5 @@
 ## Get the Big View
 
 https://www.youtube.com/watch?v=sBzRwzY7G-k
+
+- GIT / SCRUM Workflow
