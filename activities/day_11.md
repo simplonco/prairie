@@ -54,7 +54,7 @@ Définition charte de bonne conduite.
 
 ## Photos de la promo ?
 
-# HTML / CSS Challenges
+## HTML / CSS Challenges
 
 > Let's play with https://github.com/simplonco/html-css-challenges !
 
