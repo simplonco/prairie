@@ -8,7 +8,7 @@
 
 > https://dash.generalassemb.ly/
 
-## How To
+## HOW TO
 
 Pour installer **google chrome** sous linux `sudo apt-get install chromium`
 
