@@ -14,19 +14,19 @@
 
 ## Semaine 1 : Linux & Scratch
 
-* [Lundi](activities/days_01.md)
-* [Mardi](activities/days_02.md)
-* [Mercredi](activities/days_03.md)
-* [Jeudi](activities/days_04.md)
-* [Vendredi](activities/days_05.md)
+* [Lundi](https://github.com/simplonco/prairie/blob/master/activities/days_01.md)
+* [Mardi](https://github.com/simplonco/prairie/blob/master/activities/days_02.md)
+* [Mercredi](https://github.com/simplonco/prairie/blob/master/activities/days_03.md)
+* [Jeudi](https://github.com/simplonco/prairie/blob/master/activities/days_04.md)
+* [Vendredi](https://github.com/simplonco/prairie/blob/master/activities/days_05.md)
 
 ## Semaine 2 : HTML / CSS
 
-* [Lundi](activities/days_06.md)
-* [Mardi](activities/days_07.md)
-* [Mercredi](activities/days_08.md)
-* [Jeudi](activities/days_09.md)
-* [Vendredi](activities/days_10.md)
+* [Lundi](https://github.com/simplonco/prairie/blob/master/activities/days_06.md)
+* [Mardi](https://github.com/simplonco/prairie/blob/master/activities/days_07.md)
+* [Mercredi](https://github.com/simplonco/prairie/blob/master/activities/days_08.md)
+* [Jeudi](https://github.com/simplonco/prairie/blob/master/activities/days_09.md)
+* [Vendredi](https://github.com/simplonco/prairie/blob/master/activities/days_10.md)
 
 ## Semaine 3 : Bootstrap & jQuery
 
