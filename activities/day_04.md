@@ -4,11 +4,11 @@
 
 - _Jeudi 10 Novembre_ **[Curtis]** CSS: class VS id
 
-## HTML / CSS
+## HTML5 / CSS3
 
 > https://dash.generalassemb.ly/
 
-## HOW TO
+## How To
 
 Pour installer **google chrome** sous linux `sudo apt-get install chromium`
 
