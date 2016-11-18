@@ -1,4 +1,4 @@
-# La Prarie Simplon.co : Days 2 / 20
+# La Prairie Simplon.co : Days 2 / 20
 
 Présentation pédago -> guide de survie à Simplon - 20min [NEED LINK]
 
@@ -15,7 +15,7 @@ Présentation pédago -> guide de survie à Simplon - 20min [NEED LINK]
 
 ## Présentation du format et programme prairie - 15min
 
-## Présentation référentiel -> Post’its sur les technos = Planning - 45min
+## Présentation référentiel -> Post-its sur les technos = Planning - 45min
 
 ## Feuilles de présence
 
