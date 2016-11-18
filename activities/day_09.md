@@ -9,3 +9,9 @@
 ## Discover Pair programming : Reproduce a website 1 / 2
 
 **Challenge:** Try to reproduce Facebook welcome page
+
+## Veille Technologique
+
+- Dribble https://dribbble.com/
+- Google Design https://design.google.com/
+- Little Big details http://littlebigdetails.com/
