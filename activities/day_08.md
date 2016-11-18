@@ -1,6 +1,7 @@
 # La Prarie Simplon.co : Days 8 / 20
 
-Rencontre team par pôles
+
+## Prez de la Promo <-> des équipes Simplon.co : rencontre des teams par pôles
 
 ## Lightning Talk
 
@@ -16,7 +17,3 @@ Rencontre team par pôles
 ## Veille
 
 https://twitter.com/maximaLzdnb/lists/influent-webdev-designers/members
-
-## Charte de la formation
-
-- Prez de la Promo <-> des équipes Simplon.co #rencontre

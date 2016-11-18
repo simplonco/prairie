@@ -9,6 +9,6 @@
 
 ## CSS Properties
 
-Read http://guidecss.fr
+Read http://guidecss.fr !
 
 Let's play with http://flukeout.github.io/ !

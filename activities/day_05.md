@@ -1,10 +1,8 @@
-## La Prarie Simplon.co : Days 5 / 20
-
+# La Prarie Simplon.co : Days 5 / 20
 
 ## Experiment
 
 Allez 2 derniers outils de Mozilla pour la route : https://thimble.mozilla.org & https://goggles.mozilla.org
-
 
 ## Learn
 

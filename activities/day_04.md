@@ -19,3 +19,7 @@ pour ceux sous mac vous pouvez vérifier que *brew* (votre installateur de paque
 Pour sélectionner d'autres réseaux *wifi* sous linux : `nmtui` (`sudo apt-get install wireless-tools network-manager firmware-iwlwifi`)
 
 Solarized color on OSX Terminal : https://github.com/tomislav/osx-terminal.app-colors-solarized
+
+## Customize the local 1 / 3
+
+-> UNIX / Vim Spreadsheets
