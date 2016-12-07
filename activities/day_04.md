@@ -2,7 +2,7 @@
 
 ## Lightning Talk
 
-- _Jeudi 10 Novembre_ **[Curtis]** CSS: class VS id
+- _Jeudi 10 Novembre_ **[?]** CSS: class VS id
 
 ## HTML / CSS
 

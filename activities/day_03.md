@@ -2,7 +2,7 @@
 
 ## Lightning Talk
 
-- _Mercredi 9 Novembre_ **[Paul]** How to create your First HTML Page on UNIX w/ atom
+- _Mercredi 9 Novembre_ **[?]** How to create your First HTML Page on UNIX w/ atom
 
 ## Default UNIX setup
 
