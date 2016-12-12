@@ -1,4 +1,4 @@
-## La Prarie Simplon.co : Days 5 / 20
+## La Prairie Simplon.co : Days 5 / 20
 
 
 ## Experiment

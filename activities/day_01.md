@@ -1,4 +1,4 @@
-# La Prarie Simplon.co : Days 1 / 20
+# La Prairie Simplon.co : Days 1 / 20
 
 ## [Prelude](https://docs.google.com/presentation/d/1z6GZSR9HP7Du6V2zGSruDbvda-r_Am7GGQg-J7J5Ozg/edit#slide=id.p)
 

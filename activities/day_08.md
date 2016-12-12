@@ -1,4 +1,4 @@
-# La Prarie Simplon.co : Days 8 / 20
+# La Prairie Simplon.co : Days 8 / 20
 
 Rencontre team par pôles
 

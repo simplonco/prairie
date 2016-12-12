@@ -1,4 +1,4 @@
-# La Prarie Simplon.co : Days 2 / 20
+# La Prairie Simplon.co : Days 2 / 20
 
 Présentation pédago -> guide de survie à Simplon - 20min [NEED LINK]
 

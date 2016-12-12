@@ -1,4 +1,4 @@
-# La Prarie Simplon.co : Days 13 / 20
+# La Prairie Simplon.co : Days 13 / 20
 
 ## Médiation Numérique w/ Yassin -> Challenge SCRATCH 1/3 :
 

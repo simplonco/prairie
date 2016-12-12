@@ -1,4 +1,4 @@
-# La Prarie Simplon.co : Days 16 / 20
+# La Prairie Simplon.co : Days 16 / 20
 
 > Lego for SCRUM
 

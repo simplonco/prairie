@@ -1,8 +1,8 @@
-# La Prarie Simplon.co : Days 11 / 20
+# La Prairie Simplon.co : Days 11 / 20
 
 # jQuery 1 / 2
 
-# La Prarie Simplon.co : Days 15 / 20
+# La Prairie Simplon.co : Days 15 / 20
 
 > [Challenge Interpromo](BOOTSTRAP.md) 2 / 2 -> Restitution
 

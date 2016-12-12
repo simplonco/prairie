@@ -1,4 +1,4 @@
-# La Prarie Simplon.co : Days 6 / 20
+# La Prairie Simplon.co : Days 6 / 20
 
 ## Lightning Talk
 

@@ -1,4 +1,4 @@
-# La Prarie Simplon.co : Days 20 / 20
+# La Prairie Simplon.co : Days 20 / 20
 
 > Final Projet 3 / 3
 
