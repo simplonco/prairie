@@ -1,5 +1,5 @@
 # La Prairie Simplon.co : Days 15 / 20
 
-> Candy Git: https://docs.google.com/document/d/1m79eheMlgdHaT7cQS73qEmvPodDjhv-mapYKnB_zyDg/edit
+## jQuery Challenges
 
-Start Git
+> Let's play with https://github.com/simplonco/animation-challenges !

@@ -14,32 +14,32 @@
 
 ## Semaine 1 : Linux & Scratch
 
-* :lock: _Lundi_
-* :lock: _Mardi_
-* :lock: _Mercredi_
-* :lock: _Jeudi_
-* :lock: _Vendredi_
+* [Lundi](https://github.com/simplonco/prairie/blob/master/activities/day_01.md)
+* [Mardi](https://github.com/simplonco/prairie/blob/master/activities/day_02.md)
+* [Mercredi](https://github.com/simplonco/prairie/blob/master/activities/day_03.md)
+* [Jeudi](https://github.com/simplonco/prairie/blob/master/activities/day_04.md)
+* [Vendredi](https://github.com/simplonco/prairie/blob/master/activities/day_05.md)
 
 ## Semaine 2 : HTML / CSS
 
-* :lock: _Lundi_
-* :lock: _Mardi_
-* :lock: _Mercredi_
-* :lock: _Jeudi_
-* :lock: _Vendredi_
+* [Lundi](https://github.com/simplonco/prairie/blob/master/activities/day_06.md)
+* [Mardi](https://github.com/simplonco/prairie/blob/master/activities/day_07.md)
+* [Mercredi](https://github.com/simplonco/prairie/blob/master/activities/day_08.md)
+* [Jeudi](https://github.com/simplonco/prairie/blob/master/activities/day_09.md)
+* [Vendredi](https://github.com/simplonco/prairie/blob/master/activities/day_10.md)
 
 ## Semaine 3 : Bootstrap & jQuery
 
-* :lock: _Lundi_
-* :lock: _Mardi_
-* :lock: _Mercredi_
-* :lock: _Jeudi_
-* :lock: _Vendredi_
+* [Lundi](https://github.com/simplonco/prairie/blob/master/activities/day_11.md)
+* [Mardi](https://github.com/simplonco/prairie/blob/master/activities/day_12.md)
+* [Mercredi](https://github.com/simplonco/prairie/blob/master/activities/day_13.md)
+* [Jeudi](https://github.com/simplonco/prairie/blob/master/activities/day_14.md)
+* [Vendredi](https://github.com/simplonco/prairie/blob/master/activities/day_15.md)
 
 ## Semaine 4 : Git / SCRUM
 
-* :lock: _Lundi_
-* :lock: _Mardi_
-* :lock: _Mercredi_
-* :lock: _Jeudi_
-* :lock: _Vendredi_
+* [Lundi](https://github.com/simplonco/prairie/blob/master/activities/day_16.md)
+* [Mardi](https://github.com/simplonco/prairie/blob/master/activities/day_17.md)
+* [Mercredi](https://github.com/simplonco/prairie/blob/master/activities/day_18.md)
+* [Jeudi](https://github.com/simplonco/prairie/blob/master/activities/day_19.md)
+* [Vendredi](https://github.com/simplonco/prairie/blob/master/activities/day_20.md)

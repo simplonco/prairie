@@ -15,7 +15,7 @@ Présentation pédago -> guide de survie à Simplon - 20min [NEED LINK]
 
 ## Présentation du format et programme prairie - 15min
 
-## Présentation référentiel -> Post’its sur les technos = Planning - 45min
+## Présentation référentiel -> Post-its sur les technos = Planning - 45min
 
 ## Feuilles de présence
 

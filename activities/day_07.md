@@ -13,7 +13,7 @@ Try to play a bit with http://flexboxfroggy.com/ !
 
 And http://www.flexboxdefense.com/ !
 
-## Use CSS Flexbox to reproduce a page
+## Use CSS Flexbox to reproduce a simple page
 
 * http://www.cssauthor.com/css-flexbox/
 * http://learnlayout.com/flexbox.html/
