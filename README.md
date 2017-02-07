@@ -12,6 +12,10 @@
 > La Prairie is the first part of your training at Simplon.co:
 > 20 days of full autonomy (your trainers will not give you any technical course) to learn the basics of web development!
 
+## Setup
+
+https://github.com/simplonco/dotfiles
+
 ## Semaine 1 : Linux & Scratch
 
 * [Lundi](https://github.com/simplonco/prairie/blob/master/activities/day_01.md)
