@@ -43,3 +43,12 @@
 * [Mercredi](https://github.com/simplonco/prairie/blob/master/activities/day_18.md)
 * [Jeudi](https://github.com/simplonco/prairie/blob/master/activities/day_19.md)
 * [Vendredi](https://github.com/simplonco/prairie/blob/master/activities/day_20.md)
+
+## How to Contribute
+
+Please read the [Contribution guide](https://github.com/simplonco/training/blob/master/CONTRIBUTING.md) first!
+
+Do you want to add a resource? correct a mistake? or do you need a new exercise or project to cover a topic?
+Do not hesitate to write an [issue](https://github.com/simplonco/prairie/issues)!
+
+_To be continued.._
